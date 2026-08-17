@@ -13,7 +13,7 @@
 ### 🚀 About Me
 
 - 🎓 Final-year B.Tech CS student, JECRC University, Jaipur (Class of 2027)
-- 💪 Strong in C++ & DSA — 200+ problems solved on LeetCode / GFG
+- 💪 Strong in C++ & DSA — 250+ problems solved on LeetCode / GFG
 - 🛠️ Building full-stack projects, exploring LLM APIs (Groq, Gemini, Claude)
 - ☁️ Google Cloud Computing Foundations certified
 - 📫 Reach me: **deepakkmanuja@gmail.com**

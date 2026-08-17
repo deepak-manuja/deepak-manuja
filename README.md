@@ -24,10 +24,10 @@
 
 | Project | What it does |
 |---|---|
+| 📬 [**broo.email**](https://github.com/deepak-manuja/broo.email) | Custom email server (own SMTP + relay API), deployed on AWS EC2 |
 | 🔗 [**SPLITER**](https://github.com/deepak-manuja/SPLITER) | URL shortener with JWT auth & real-time analytics |
 | 📝 [**notessync**](https://github.com/deepak-manuja/notessync) | Real-time collaborative notes app using WebSockets |
 | 🤖 [**GitMate-AI**](https://github.com/deepak-manuja/GitMate-AI) | npm CLI tool that auto-generates Git commit messages & PR descriptions |
-| 📬 [**broo.email**](https://github.com/deepak-manuja/broo.email) | Custom email server (own SMTP + relay API), deployed on AWS EC2 |
 
 ---
 
@@ -47,8 +47,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-manuja&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=deepak-manuja&theme=tokyonight&hide_border=true" />
 </p>
+
+<!-- NOTE: the two cards above pull from shared public services (github-readme-stats.vercel.app,
+     streak-stats.demolab.com). These occasionally go down/rate-limit since thousands of profiles
+     hit them. If a card ever shows broken on your profile, it's not your README's fault —
+     it usually comes back within a few hours. For a permanent fix, self-host your own instance:
+     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance -->
+
 
 ---
 
